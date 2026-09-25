@@ -1,0 +1,5 @@
+experiment,best_epoch,best_val_finger_accuracy,checkpoint
+batch_64,18,0.5906103971962616,checkpoints\batch_64.pt
+baseline,14,0.5736711448598131,checkpoints\baseline.pt
+epochs_10,10,0.5553446261682243,checkpoints\epochs_10.pt
+lr_3e-4,20,0.5531542056074766,checkpoints\lr_3e-4.pt
